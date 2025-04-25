@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 초6 (초보) 프로그래머입니다.
-- [여기](github.com/zeettn)로부터 이사했습니다. 현재 이 계정을 사용중입니다.
+- [여기](https://github.com/zeettn)로부터 이사했습니다. 현재 이 계정을 사용중입니다.
 <!--
 **tw0null/tw0null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
