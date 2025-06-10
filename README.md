@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 초6 (초보). 
+- 초6 (초보) 프로그랴머 입니다. 
 <!--
 **tw0null/tw0null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
